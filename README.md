@@ -1,11 +1,1 @@
-"# struktur-data_Modul-2" 
-"# struktur-data_Modul-3" 
-"# sturktur-data_modul3" 
-"# struktur-data_Modul-3" 
-"# 103112430052_DinaNadhyfa_Struktur-Data" 
-"# 103112430052_DinaNadhyfa_Struktur-Data" 
-"# 103112430052_DinaNadhyfa_Struktur-Data" 
-"# TUGAS_BESAR-AKA" 
-"# TUGAS_BESAR-AKA" 
-"# TUGAS_BESAR-AKA" 
-"# SmartParking" 
+SmartParking merupakan sistem berbasis Artificial Intelligence yang digunakan untuk memantau ketersediaan slot parkir motor secara otomatis dan real-time menggunakan kamera dan teknologi Computer Vision. Sistem ini mampu mendeteksi kondisi slot parkir kosong atau terisi melalui proses pembelajaran citra menggunakan Machine Learning pada platform Teachable Machine. Hasil deteksi ditampilkan pada monitor di area masuk parkir kampus sehingga pengguna dapat mengetahui ketersediaan parkir dengan cepat dan tanpa perlu melakukan pengecekan manual.
