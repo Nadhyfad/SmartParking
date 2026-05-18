@@ -1,11 +1,10 @@
 import cv2
 from ultralytics import YOLO
 
-# ── KONFIGURASI ──────────────────────────────────────────────
+# KONFIGURASI
 VIDEO_SOURCE = 0          # 0 = webcam, atau ganti path video/RTSP CCTV
 TOTAL_CAPACITY = 100      # Sesuaikan kapasitas total slot parkir
 CONFIDENCE = 0.4          # Threshold confidence deteksi
-# ─────────────────────────────────────────────────────────────
 
 model = YOLO("yolov8n.pt")  # Download otomatis saat pertama kali dijalankan
 
